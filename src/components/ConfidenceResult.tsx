@@ -135,10 +135,6 @@ export const ConfidenceResult: React.FC<ConfidenceResultProps> = ({
           </motion.button>
         </div>
       </div>
-
-      <div className="text-center pb-2 text-[10px] text-slate-400">
-        Calculated via BBH Throughput / 33 & CA Configuration / 3
-      </div>
     </div>
   );
 };

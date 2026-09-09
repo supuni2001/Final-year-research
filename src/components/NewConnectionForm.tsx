@@ -57,13 +57,10 @@ export const NewConnectionForm: React.FC<NewConnectionFormProps> = ({
           >
             {COLOMBO_CITIES_SUMMARY.map((c) => (
               <option key={c.city} value={`Colombo - ${c.city}`}>
-                Colombo - {c.city} ({c.caConfig} Available)
+                Colombo - {c.city}
               </option>
             ))}
           </select>
-          <p className="text-[11px] text-slate-400 mt-1">
-            Location in Colombo District
-          </p>
         </div>
 
         <div className="pt-2">
@@ -79,10 +76,6 @@ export const NewConnectionForm: React.FC<NewConnectionFormProps> = ({
           </motion.button>
         </div>
       </form>
-
-      <div className="text-center pb-2 text-[10px] text-slate-400">
-        Finds the best provider & Carrier Aggregation router
-      </div>
     </div>
   );
 };

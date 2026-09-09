@@ -1,6 +1,6 @@
 {
-  "name": "Broadband Confidence & Router Advisor",
-  "description": "Location-based carrier aggregation stability evaluator and router recommendation system for broadband users in Colombo.",
+  "name": "wifiwiz",
+  "description": "wifiwiz - Broadband router confidence and recommendation assistant",
   "requestFramePermissions": [
     "geolocation"
   ],

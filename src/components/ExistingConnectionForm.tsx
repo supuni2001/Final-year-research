@@ -2,8 +2,8 @@ import React, { useState } from 'react';
 import { motion } from 'motion/react';
 import { NetworkProvider, RouterSpec } from '../types';
 import { COLOMBO_CITIES_SUMMARY, PROVIDERS_LIST } from '../data/colomboDataset';
-import { ROUTER_CATALOG, findRouterByImei } from '../data/routers';
-import { ArrowLeft, ArrowRight, Smartphone } from 'lucide-react';
+import { findRouterByImei } from '../data/routers';
+import { ArrowLeft, ArrowRight } from 'lucide-react';
 
 interface ExistingConnectionFormProps {
   onBack: () => void;
@@ -20,7 +20,7 @@ export const ExistingConnectionForm: React.FC<ExistingConnectionFormProps> = ({
   onSubmit
 }) => {
   // Default values matching Figure 1.2 in thesis rich picture
-  const [imei, setImei] = useState<string>('863261024589123'); // Huawei B310s (gives real 38-42% score)
+  const [imei, setImei] = useState<string>('863261024589123');
   const [location, setLocation] = useState<string>('Colombo - Dehiwala');
   const [provider, setProvider] = useState<NetworkProvider>('Dialog');
 
@@ -82,32 +82,6 @@ export const ExistingConnectionForm: React.FC<ExistingConnectionFormProps> = ({
             id="input-imei"
             required
           />
-          {/* Quick preset chips for rapid prototype testing */}
-          <div className="flex items-center gap-1.5 mt-1.5 overflow-x-auto pb-1 text-[10px]">
-            <span className="text-slate-400 font-semibold shrink-0">Sample:</span>
-            <button
-              type="button"
-              onClick={() => setImei('863261024589123')}
-              className={`px-2 py-0.5 rounded border transition-colors shrink-0 ${
-                imei.startsWith('86326102') 
-                  ? 'bg-indigo-600 text-white border-indigo-600 font-bold' 
-                  : 'bg-slate-100 text-slate-600 border-slate-200'
-              }`}
-            >
-              Huawei B310s (Cat 4)
-            </button>
-            <button
-              type="button"
-              onClick={() => setImei('862410049103482')}
-              className={`px-2 py-0.5 rounded border transition-colors shrink-0 ${
-                imei.startsWith('86241004') 
-                  ? 'bg-indigo-600 text-white border-indigo-600 font-bold' 
-                  : 'bg-slate-100 text-slate-600 border-slate-200'
-              }`}
-            >
-              Huawei B535 (2CC)
-            </button>
-          </div>
         </div>
 
         {/* Field 2: Current Location */}
@@ -162,10 +136,6 @@ export const ExistingConnectionForm: React.FC<ExistingConnectionFormProps> = ({
           </motion.button>
         </div>
       </form>
-
-      <div className="text-center pb-2 text-[10px] text-slate-400">
-        Based on Colombo BBH Throughput & CA Configuration
-      </div>
     </div>
   );
 };

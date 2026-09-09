@@ -1,20 +1,19 @@
 import React from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import { RouterSpec } from '../types';
-import { X, Cpu, CheckCircle2, AlertCircle } from 'lucide-react';
+import { X, Cpu } from 'lucide-react';
 
 interface RouterModalProps {
   isOpen: boolean;
   onClose: () => void;
   router: RouterSpec;
-  city: string;
+  city?: string;
 }
 
 export const RouterModal: React.FC<RouterModalProps> = ({
   isOpen,
   onClose,
-  router,
-  city
+  router
 }) => {
   if (!isOpen) return null;
 
@@ -86,21 +85,6 @@ export const RouterModal: React.FC<RouterModalProps> = ({
                 </span>
               ))}
             </div>
-          </div>
-
-          {/* Area Compatibility Advice */}
-          <div className="mt-3 p-2.5 rounded-xl bg-indigo-50 text-indigo-900 text-[11px] leading-snug">
-            {router.caSupport === '1CC' ? (
-              <div className="flex items-start gap-1.5">
-                <AlertCircle className="w-3.5 h-3.5 text-amber-600 shrink-0 mt-0.5" />
-                <span>Base stations in {city} support Carrier Aggregation, but this router only supports a single band (1CC).</span>
-              </div>
-            ) : (
-              <div className="flex items-start gap-1.5">
-                <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0 mt-0.5" />
-                <span>This router supports multi-band Carrier Aggregation, matching Colombo base stations.</span>
-              </div>
-            )}
           </div>
 
           {/* Close button */}

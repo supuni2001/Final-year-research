@@ -219,8 +219,8 @@ export default function App() {
           <RotateCcw className="w-3 h-3" />
           <span>Reset Prototype</span>
         </button>
-        <span className="text-[11px] text-slate-400">
-          Mobile Prototype Flow (Figma Aligned)
+        <span className="text-[11px] text-slate-400 font-medium">
+          wifiwiz Prototype
         </span>
       </div>
 
