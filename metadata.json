@@ -1,0 +1,10 @@
+{
+  "name": "Broadband Confidence & Router Advisor",
+  "description": "Location-based carrier aggregation stability evaluator and router recommendation system for broadband users in Colombo.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
