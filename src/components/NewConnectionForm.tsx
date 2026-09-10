@@ -1,16 +1,19 @@
 import React, { useState } from 'react';
 import { motion } from 'motion/react';
+import { CitySummary } from '../types';
 import { COLOMBO_CITIES_SUMMARY } from '../data/colomboDataset';
 import { ArrowLeft, ArrowRight, MapPin } from 'lucide-react';
 
 interface NewConnectionFormProps {
   onBack: () => void;
   onSubmit: (city: string) => void;
+  cities?: CitySummary[];
 }
 
 export const NewConnectionForm: React.FC<NewConnectionFormProps> = ({
   onBack,
-  onSubmit
+  onSubmit,
+  cities = COLOMBO_CITIES_SUMMARY
 }) => {
   const [location, setLocation] = useState<string>('Colombo - Dehiwala');
 
@@ -55,7 +58,7 @@ export const NewConnectionForm: React.FC<NewConnectionFormProps> = ({
             className="w-full text-xs font-semibold py-2.5 px-3 rounded-xl border border-slate-300 focus:outline-none focus:ring-2 focus:ring-indigo-600 bg-slate-50 focus:bg-white text-slate-900 shadow-2xs"
             id="select-new-location"
           >
-            {COLOMBO_CITIES_SUMMARY.map((c) => (
+            {cities.map((c) => (
               <option key={c.city} value={`Colombo - ${c.city}`}>
                 Colombo - {c.city}
               </option>

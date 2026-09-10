@@ -1,9 +1,10 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { AppScreen, EvaluationResult, NetworkProvider, RouterSpec } from './types';
+import { AppScreen, CitySummary, EvaluationResult, NetworkProvider, RouterSpec } from './types';
 import { calculateConfidence } from './utils/calculator';
 import { COLOMBO_CITIES_SUMMARY } from './data/colomboDataset';
 import { findRouterByImei, ROUTER_CATALOG } from './data/routers';
+import { fetchLocations, evaluateConnectionOnBackend } from './services/api';
 import { WelcomeScreen } from './components/WelcomeScreen';
 import { ConnectionQuestion } from './components/ConnectionQuestion';
 import { ExistingConnectionForm } from './components/ExistingConnectionForm';
@@ -19,6 +20,17 @@ export default function App() {
   const [activeCity, setActiveCity] = useState<string>('Dehiwala');
   const [activeRouter, setActiveRouter] = useState<RouterSpec>(ROUTER_CATALOG[0]);
   const [isRouterModalOpen, setIsRouterModalOpen] = useState<boolean>(false);
+  const [cities, setCities] = useState<CitySummary[]>(COLOMBO_CITIES_SUMMARY);
+  const [isEvaluating, setIsEvaluating] = useState<boolean>(false);
+
+  // Load live dataset cities from backend on mount
+  useEffect(() => {
+    fetchLocations().then((data) => {
+      if (data && data.length > 0) {
+        setCities(data);
+      }
+    });
+  }, []);
 
   // Flow handlers based strictly on Thesis Flowchart (Figure 5.1.1)
   const handleStart = () => {
@@ -33,7 +45,7 @@ export default function App() {
     }
   };
 
-  const handleEvaluateExisting = (data: {
+  const handleEvaluateExisting = async (data: {
     provider: NetworkProvider;
     city: string;
     router: RouterSpec;
@@ -41,30 +53,42 @@ export default function App() {
   }) => {
     setActiveCity(data.city);
     setActiveRouter(data.router);
+    setIsEvaluating(true);
 
-    // Retrieve BBH throughput and CA configuration for this city
-    const cityData = COLOMBO_CITIES_SUMMARY.find(c => c.city.toLowerCase() === data.city.toLowerCase()) || COLOMBO_CITIES_SUMMARY[0];
-    const throughput = cityData.avgThroughput;
-    const caConfig = cityData.caConfig;
+    // Call backend API evaluation endpoint
+    const backendResult = await evaluateConnectionOnBackend({
+      location: data.city,
+      isp: data.provider,
+      routerModel: data.router.model,
+      routerImei: data.imei
+    });
 
-    // Run thesis mathematical formula: Throughput/33 & CA/3
-    const calc = calculateConfidence(throughput, caConfig, data.router);
+    if (backendResult) {
+      setEvaluationResult(backendResult);
+    } else {
+      // Graceful fallback to local calculation
+      const cityData = cities.find(c => c.city.toLowerCase() === data.city.toLowerCase()) || cities[0];
+      const throughput = cityData.avgThroughput;
+      const caConfig = cityData.caConfig;
+      const calc = calculateConfidence(throughput, caConfig, data.router);
 
-    const res: EvaluationResult = {
-      provider: data.provider,
-      city: data.city,
-      router: data.router,
-      calculation: calc,
-      timestamp: new Date().toISOString()
-    };
+      const res: EvaluationResult = {
+        provider: data.provider,
+        city: data.city,
+        router: data.router,
+        calculation: calc,
+        timestamp: new Date().toISOString()
+      };
+      setEvaluationResult(res);
+    }
 
-    setEvaluationResult(res);
+    setIsEvaluating(false);
     setCurrentScreen('score_result');
   };
 
   const handleEvaluateNew = (cityName: string) => {
     setActiveCity(cityName);
-    const cityData = COLOMBO_CITIES_SUMMARY.find(c => c.city.toLowerCase() === cityName.toLowerCase()) || COLOMBO_CITIES_SUMMARY[0];
+    const cityData = cities.find(c => c.city.toLowerCase() === cityName.toLowerCase()) || cities[0];
     const topRouter = ROUTER_CATALOG.find(r => r.caSupport === cityData.caConfig) || ROUTER_CATALOG[3];
     setActiveRouter(topRouter);
     setCurrentScreen('recommendations');
@@ -141,6 +165,7 @@ export default function App() {
                 <ExistingConnectionForm
                   onBack={() => setCurrentScreen('connection_question')}
                   onSubmit={handleEvaluateExisting}
+                  cities={cities}
                 />
               </motion.div>
             )}
@@ -156,6 +181,7 @@ export default function App() {
                 <NewConnectionForm
                   onBack={() => setCurrentScreen('connection_question')}
                   onSubmit={handleEvaluateNew}
+                  cities={cities}
                 />
               </motion.div>
             )}

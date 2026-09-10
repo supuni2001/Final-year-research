@@ -1,0 +1,504 @@
+Sector Name,Sector ID,Site Name,Lat,Lon,Site ID,CA Configuration,BBH Avg Throughput
+Avissawella-1_1,COL002_1,Avissawella-1,6.956322,80.213559,COL002,3CC available,18
+Avissawella-1_2,COL002_2,Avissawella-1,6.956322,80.213559,COL002,3CC available,20.67451719
+Avissawella-1_3,COL002_3,Avissawella-1,6.956322,80.213559,COL002,3CC available,18.9202848
+Battaramulla-1_1,COL005_1,Battaramulla-1,6.909661,79.924778,COL005,3CC available,18.07732823
+Battaramulla-1_2,COL005_2,Battaramulla-1,6.909661,79.924778,COL005,2CC available,21.31113271
+Battaramulla-1_3,COL005_3,Battaramulla-1,6.909661,79.924778,COL005,3CC available,19.44892886
+Dehiwala-1_1,COL007_1,Dehiwala-1,6.850461,79.871328,COL007,3CC available,19.63756959
+Dehiwala-1_2,COL007_2,Dehiwala-1,6.850461,79.871328,COL007,3CC available,20.43958175
+Dehiwala-1_3,COL007_3,Dehiwala-1,6.850461,79.871328,COL007,3CC available,20.33051423
+Col11_FortStation-1_1,COL009_1,Col11_FortStation-1,6.934387,79.850705,COL009,2CC available,18.88883988
+Col11_FortStation-1_2,COL009_2,Col11_FortStation-1,6.934387,79.850705,COL009,3CC available,19.53319948
+Col11_FortStation-1_3,COL009_3,Col11_FortStation-1,6.934387,79.850705,COL009,2CC available,21.60821651
+Col3_RamadaHotel-1_1,COL010_1,Col3_RamadaHotel-1,6.921065,79.847567,COL010,3CC available,22.19947111
+Col3_RamadaHotel-1_2,COL010_2,Col3_RamadaHotel-1,6.921065,79.847567,COL010,3CC available,19.09110258
+Col3_RamadaHotel-1_3,COL010_3,Col3_RamadaHotel-1,6.921065,79.847567,COL010,3CC available,21.7540541
+Homagama-1_1,COL012_1,Homagama-1,6.849938,79.996283,COL012,3CC available,19.27800651
+Homagama-1_2,COL012_2,Homagama-1,6.849938,79.996283,COL012,3CC available,18.15837517
+Homagama-1_3,COL012_3,Homagama-1,6.849938,79.996283,COL012,3CC available,20.17045184
+Col6_Kirulapona-3_1,COL013_1,Col6_Kirulapona-3,6.882751,79.869277,COL013,2CC available,16.78232683
+Col6_Kirulapona-3_2,COL013_2,Col6_Kirulapona-3,6.882751,79.869277,COL013,3CC available,18.14202859
+Col6_Kirulapona-3_3,COL013_3,Col6_Kirulapona-3,6.882751,79.869277,COL013,3CC available,18.62169871
+Col3_Kollupitiya-1_1,COL014_1,Col3_Kollupitiya-1,6.909422,79.852713,COL014,No CA configured,33
+Col3_Kollupitiya-1_2,COL014_2,Col3_Kollupitiya-1,6.909422,79.852713,COL014,2CC available,30.9091289
+Col3_Kollupitiya-1_3,COL014_3,Col3_Kollupitiya-1,6.909422,79.852713,COL014,2CC available,23.44969252
+Col13_Kotahena-1_1,COL015_1,Col13_Kotahena-1,6.947528,79.861321,COL015,2CC available,21.89294126
+Col13_Kotahena-1_2,COL015_2,Col13_Kotahena-1,6.947528,79.861321,COL015,2CC available,20.67505654
+Col13_Kotahena-1_3,COL015_3,Col13_Kotahena-1,6.947528,79.861321,COL015,2CC available,20.02578635
+Kottawa-1_1,COL016_1,Kottawa-1,6.82407,79.96861,COL016,2CC available,19.08147307
+Kottawa-1_2,COL016_2,Kottawa-1,6.82407,79.96861,COL016,3CC available,18
+Kottawa-1_3,COL016_3,Kottawa-1,6.82407,79.96861,COL016,3CC available,18.56432225
+Malabe-1_1,COL018_1,Malabe-1,6.908017,79.966901,COL018,3CC available,19.32324798
+Malabe-1_2,COL018_2,Malabe-1,6.908017,79.966901,COL018,3CC available,18.90083343
+Malabe-1_3,COL018_3,Malabe-1,6.908017,79.966901,COL018,3CC available,17.33484115
+Moratuwa-1_1,COL021_1,Moratuwa-1,6.788196,79.887659,COL021,2CC available,16.67853141
+Moratuwa-1_2,COL021_2,Moratuwa-1,6.788196,79.887659,COL021,2CC available,18
+Moratuwa-1_3,COL021_3,Moratuwa-1,6.788196,79.887659,COL021,2CC available,15.75
+MtLavinia-1_1,COL022_1,MtLavinia-1,6.834241,79.867828,COL022,No CA configured,19
+MtLavinia-1_2,COL022_2,MtLavinia-1,6.834241,79.867828,COL022,3CC available,19.42541306
+MtLavinia-1_3,COL022_3,MtLavinia-1,6.834241,79.867828,COL022,No CA configured,27
+Narahenpita-1_1,COL023_1,Narahenpita-1,6.892336,79.876412,COL023,3CC available,21.90531768
+Narahenpita-1_2,COL023_2,Narahenpita-1,6.892336,79.876412,COL023,2CC available,18.67377984
+Narahenpita-1_3,COL023_3,Narahenpita-1,6.892336,79.876412,COL023,2CC available,21.13051913
+Col7_NCC-1_1,COL024_1,Col7_NCC-1,6.907198,79.867433,COL024,3CC available,29.94906872
+Col7_NCC-1_2,COL024_2,Col7_NCC-1,6.907198,79.867433,COL024,3CC available,22.03168676
+Col7_NCC-1_3,COL024_3,Col7_NCC-1,6.907198,79.867433,COL024,3CC available,26.64276524
+Nugegoda-1_1,COL025_1,Nugegoda-1,6.876722,79.900861,COL025,2CC available,22.59607533
+Nugegoda-1_2,COL025_2,Nugegoda-1,6.876722,79.900861,COL025,2CC available,19.61588833
+Nugegoda-1_3,COL025_3,Nugegoda-1,6.876722,79.900861,COL025,2CC available,21.5547774
+Col12_Pettah-1_1,COL026_1,Col12_Pettah-1,6.939816,79.856303,COL026,3CC available,21.04268062
+Col12_Pettah-1_2,COL026_2,Col12_Pettah-1,6.939816,79.856303,COL026,3CC available,19.28984161
+Col12_Pettah-1_3,COL026_3,Col12_Pettah-1,6.939816,79.856303,COL026,3CC available,18.75284312
+Rajagiriya-1_1,COL027_1,Rajagiriya-1,6.909733,79.896474,COL027,2CC available,19.23720546
+Rajagiriya-1_2,COL027_2,Rajagiriya-1,6.909733,79.896474,COL027,3CC available,18.67208871
+Rajagiriya-1_3,COL027_3,Rajagiriya-1,6.909733,79.896474,COL027,3CC available,18.49348615
+Ratmalana-1_1,COL028_1,Ratmalana-1,6.821196,79.889333,COL028,3CC available,20.63521453
+Ratmalana-1_2,COL028_2,Ratmalana-1,6.821196,79.889333,COL028,3CC available,19.20842407
+Ratmalana-1_3,COL028_3,Ratmalana-1,6.821196,79.889333,COL028,3CC available,19.92847944
+SavoyCinema-1_1,COL029_1,SavoyCinema-1,6.878682,79.862319,COL029,2CC available,27
+SavoyCinema-1_2,COL029_2,SavoyCinema-1,6.878682,79.862319,COL029,2CC available,21.30707088
+SavoyCinema-1_3,COL029_3,SavoyCinema-1,6.878682,79.862319,COL029,2CC available,27
+Talawathugoda-1_1,COL030_1,Talawathugoda-1,6.878832,79.940375,COL030,No CA configured,19
+Talawathugoda-1_2,COL030_2,Talawathugoda-1,6.878832,79.940375,COL030,2CC available,21.912355
+Talawathugoda-1_3,COL030_3,Talawathugoda-1,6.878832,79.940375,COL030,3CC available,19.31036406
+Col2_UnionPl_Access-1_1,COL032_1,Col2_UnionPl_Access-1,6.920243,79.85733,COL032,2CC available,21.3294951
+Col2_UnionPl_Access-1_2,COL032_2,Col2_UnionPl_Access-1,6.920243,79.85733,COL032,2CC available,18.24108309
+Col2_UnionPl_Access-1_3,COL032_3,Col2_UnionPl_Access-1,6.920243,79.85733,COL032,3CC available,20.26232424
+Wellampitiya-1_1,COL033_1,Wellampitiya-1,6.935943,79.895323,COL033,3CC available,18.481972
+Wellampitiya-1_2,COL033_2,Wellampitiya-1,6.935943,79.895323,COL033,3CC available,18.93906854
+Wellampitiya-1_3,COL033_3,Wellampitiya-1,6.935943,79.895323,COL033,2CC available,19.95559859
+Piliyandala-1_1,COL034_1,Piliyandala-1,6.802536,79.920993,COL034,3CC available,19.26694352
+Piliyandala-1_2,COL034_2,Piliyandala-1,6.802536,79.920993,COL034,3CC available,19.31490218
+Piliyandala-1_3,COL034_3,Piliyandala-1,6.802536,79.920993,COL034,3CC available,20.85115386
+Kotikawatta-1_1,COL035_1,Kotikawatta-1,6.935433,79.914193,COL035,3CC available,15.69175623
+Kotikawatta-1_2,COL035_2,Kotikawatta-1,6.935433,79.914193,COL035,3CC available,15.70695831
+Kotikawatta-1_3,COL035_3,Kotikawatta-1,6.935433,79.914193,COL035,3CC available,19.13910315
+Koralawella-1_1,COL036_1,Koralawella-1,6.762636,79.889752,COL036,3CC available,20.87246663
+Koralawella-1_2,COL036_2,Koralawella-1,6.762636,79.889752,COL036,3CC available,21.59372436
+Koralawella-1_3,COL036_3,Koralawella-1,6.762636,79.889752,COL036,3CC available,20.69806003
+Col4_Milagiriya-1_1,COL037_1,Col4_Milagiriya-1,6.886052,79.857661,COL037,2CC available,21.53620133
+Col4_Milagiriya-1_2,COL037_2,Col4_Milagiriya-1,6.886052,79.857661,COL037,3CC available,21.04892332
+Col4_Milagiriya-1_3,COL037_3,Col4_Milagiriya-1,6.886052,79.857661,COL037,3CC available,20.85108341
+Col4_Milagiriya-1_4,COL037_4,Col4_Milagiriya-1,6.886052,79.857661,COL037,2CC available,26.58411331
+Col4_Milagiriya-1_5,COL037_5,Col4_Milagiriya-1,6.886052,79.857661,COL037,2CC available,29.09925465
+Koratota-1_1,COL042_1,Koratota-1,6.911298,80.006219,COL042,3CC available,28.81815082
+Koratota-1_2,COL042_2,Koratota-1,6.911298,80.006219,COL042,3CC available,17.50373095
+Koratota-1_3,COL042_3,Koratota-1,6.911298,80.006219,COL042,3CC available,18.83596603
+Col3_Durdans-1_1,COL043_1,Col3_Durdans-1,6.903221,79.857015,COL043,No CA configured,21
+Col3_Durdans-1_2,COL043_2,Col3_Durdans-1,6.903221,79.857015,COL043,2CC available,27.79741108
+Col3_Durdans-1_3,COL043_3,Col3_Durdans-1,6.903221,79.857015,COL043,No CA configured,21
+Col10_Panchikawatte-1_1,COL044_1,Col10_Panchikawatte-1,6.930513,79.864807,COL044,No CA configured,27
+Col10_Panchikawatte-1_2,COL044_2,Col10_Panchikawatte-1,6.930513,79.864807,COL044,2CC available,19.183247
+Col10_Panchikawatte-1_3,COL044_3,Col10_Panchikawatte-1,6.930513,79.864807,COL044,2CC available,19.06937658
+Gangodawila-1_1,COL045_1,Gangodawila-1,6.858874,79.907192,COL045,2CC available,18.68044688
+Gangodawila-1_2,COL045_2,Gangodawila-1,6.858874,79.907192,COL045,2CC available,16.74116236
+Gangodawila-1_3,COL045_3,Gangodawila-1,6.858874,79.907192,COL045,3CC available,18.30944045
+Katubedda-1_1,COL046_1,Katubedda-1,6.798297,79.888364,COL046,3CC available,18
+Katubedda-1_2,COL046_2,Katubedda-1,6.798297,79.888364,COL046,2CC available,19.41250703
+Katubedda-1_3,COL046_3,Katubedda-1,6.798297,79.888364,COL046,3CC available,19.1905746
+BattaramullaTown-1_1,COL047_1,BattaramullaTown-1,6.903055,79.921121,COL047,2CC available,17.35368485
+BattaramullaTown-1_2,COL047_2,BattaramullaTown-1,6.903055,79.921121,COL047,No CA configured,23
+BattaramullaTown-1_3,COL047_3,BattaramullaTown-1,6.903055,79.921121,COL047,2CC available,16.87200037
+Col1_KeyzerStreet-1_1,COL048_1,Col1_KeyzerStreet-1,6.937276,79.851966,COL048,No CA configured,33
+Col1_KeyzerStreet-1_2,COL048_2,Col1_KeyzerStreet-1,6.937276,79.851966,COL048,2CC available,30.77977484
+Col1_KeyzerStreet-1_3,COL048_3,Col1_KeyzerStreet-1,6.937276,79.851966,COL048,2CC available,30
+Col5_Thimbirigasyaya-1_1,COL049_1,Col5_Thimbirigasyaya-1,6.890981,79.866399,COL049,3CC available,23.032866
+Col5_Thimbirigasyaya-1_2,COL049_2,Col5_Thimbirigasyaya-1,6.890981,79.866399,COL049,3CC available,25.01098697
+Col5_Thimbirigasyaya-1_3,COL049_3,Col5_Thimbirigasyaya-1,6.890981,79.866399,COL049,2CC available,22.10146139
+Col4_HouseofFashion-1_1,COL050_1,Col4_HouseofFashion-1,6.890114,79.858909,COL050,No CA configured,33
+Col4_HouseofFashion-1_2,COL050_2,Col4_HouseofFashion-1,6.890114,79.858909,COL050,2CC available,25.76018375
+Col4_HouseofFashion-1_3,COL050_3,Col4_HouseofFashion-1,6.890114,79.858909,COL050,2CC available,27.95049654
+Orugodawatta-1_1,COL053_1,Orugodawatta-1,6.94585,79.878008,COL053,3CC available,17.06989019
+Orugodawatta-1_2,COL053_2,Orugodawatta-1,6.94585,79.878008,COL053,3CC available,16.60411528
+Orugodawatta-1_3,COL053_3,Orugodawatta-1,6.94585,79.878008,COL053,3CC available,16.89071405
+Col15_ElieHouse-1_1,COL055_1,Col15_ElieHouse-1,6.959352,79.864419,COL055,2CC available,19.5
+Col15_ElieHouse-1_2,COL055_2,Col15_ElieHouse-1,6.959352,79.864419,COL055,2CC available,19.5
+Col15_ElieHouse-1_3,COL055_3,Col15_ElieHouse-1,6.959352,79.864419,COL055,2CC available,20.55577305
+Col8_Elvitigala-1_1,COL056_1,Col8_Elvitigala-1,6.905342,79.877133,COL056,No CA configured,30
+Col8_Elvitigala-1_2,COL056_2,Col8_Elvitigala-1,6.905342,79.877133,COL056,2CC available,22.5
+Col8_Elvitigala-1_3,COL056_3,Col8_Elvitigala-1,6.905342,79.877133,COL056,No CA configured,33
+Attidiya-1_1,COL057_1,Attidiya-1,6.840384,79.88471,COL057,3CC available,20.53525946
+Attidiya-1_2,COL057_2,Attidiya-1,6.840384,79.88471,COL057,2CC available,18.90835498
+Attidiya-1_3,COL057_3,Attidiya-1,6.840384,79.88471,COL057,3CC available,20.05553216
+NugegodaMarket-1_1,COL059_1,NugegodaMarket-1,6.875965,79.892491,COL059,3CC available,19.48236261
+NugegodaMarket-1_2,COL059_2,NugegodaMarket-1,6.875965,79.892491,COL059,3CC available,18.29038899
+NugegodaMarket-1_3,COL059_3,NugegodaMarket-1,6.875965,79.892491,COL059,2CC available,19.5987555
+Kiriwattuduwa-1_1,COL060_1,Kiriwattuduwa-1,6.802371,80.026692,COL060,3CC available,16.9841451
+Kiriwattuduwa-1_2,COL060_2,Kiriwattuduwa-1,6.802371,80.026692,COL060,3CC available,18.11413696
+Kiriwattuduwa-1_3,COL060_3,Kiriwattuduwa-1,6.802371,80.026692,COL060,3CC available,16.94958922
+Col15_Mattakkuliya-1_1,COL061_1,Col15_Mattakkuliya-1,6.972922,79.877256,COL061,2CC available,20.3890927
+Col15_Mattakkuliya-1_2,COL061_2,Col15_Mattakkuliya-1,6.972922,79.877256,COL061,2CC available,18.27283631
+Col15_Mattakkuliya-1_3,COL061_3,Col15_Mattakkuliya-1,6.972922,79.877256,COL061,2CC available,23.81942165
+Kalubowila-1_1,COL062_1,Kalubowila-1,6.866337,79.87478,COL062,3CC available,24.41636125
+Kalubowila-1_2,COL062_2,Kalubowila-1,6.866337,79.87478,COL062,3CC available,19.16547879
+Kalubowila-1_3,COL062_3,Kalubowila-1,6.866337,79.87478,COL062,3CC available,20.15921447
+Boralasgamuwa-1_1,COL063_1,Boralasgamuwa-1,6.841019,79.902609,COL063,2CC available,20.55728109
+Boralasgamuwa-1_2,COL063_2,Boralasgamuwa-1,6.841019,79.902609,COL063,3CC available,20.72392951
+Boralasgamuwa-1_3,COL063_3,Boralasgamuwa-1,6.841019,79.902609,COL063,2CC available,19.5
+PagodaRd-1_1,COL064_1,PagodaRd-1,6.883017,79.89908,COL064,2CC available,20.53940753
+PagodaRd-1_2,COL064_2,PagodaRd-1,6.883017,79.89908,COL064,2CC available,26.63954261
+PagodaRd-1_3,COL064_3,PagodaRd-1,6.883017,79.89908,COL064,2CC available,20.37051767
+Col8_CottaRd-1_1,COL065_1,Col8_CottaRd-1,6.911146,79.887286,COL065,2CC available,20.04425186
+Col8_CottaRd-1_2,COL065_2,Col8_CottaRd-1,6.911146,79.887286,COL065,2CC available,21.42145251
+Col8_CottaRd-1_3,COL065_3,Col8_CottaRd-1,6.911146,79.887286,COL065,3CC available,19.69533759
+Athurugiriya-1_1,COL066_1,Athurugiriya-1,6.876787,79.990863,COL066,3CC available,19.18748844
+Athurugiriya-1_2,COL066_2,Athurugiriya-1,6.876787,79.990863,COL066,3CC available,18.75667424
+Athurugiriya-1_3,COL066_3,Athurugiriya-1,6.876787,79.990863,COL066,3CC available,18.27464582
+Col11_Central_BusStand-1_1,COL067_1,Col11_Central_BusStand-1,6.935177,79.853672,COL067,2CC available,31.96859778
+Col11_Central_BusStand-1_2,COL067_2,Col11_Central_BusStand-1,6.935177,79.853672,COL067,3CC available,19.16474823
+Col11_Central_BusStand-1_3,COL067_3,Col11_Central_BusStand-1,6.935177,79.853672,COL067,2CC available,27
+Col11_PeoplesPark-2_1,COL068_1,Col11_PeoplesPark-2,6.936585,79.856027,COL068,2CC available,19.8902227
+Col11_PeoplesPark-2_2,COL068_2,Col11_PeoplesPark-2,6.936585,79.856027,COL068,No CA configured,33
+Col11_PeoplesPark-2_3,COL068_3,Col11_PeoplesPark-2,6.936585,79.856027,COL068,No CA configured,27
+Col12_QuarryRoad-1_1,COL070_1,Col12_QuarryRoad-1,6.939076,79.863091,COL070,3CC available,17.26067053
+Col12_QuarryRoad-1_2,COL070_2,Col12_QuarryRoad-1,6.939076,79.863091,COL070,3CC available,29.94881705
+Col12_QuarryRoad-1_3,COL070_3,Col12_QuarryRoad-1,6.939076,79.863091,COL070,3CC available,22.43513282
+Col11_MainStreet-1_1,COL071_1,Col11_MainStreet-1,6.938405,79.852528,COL071,2CC available,27
+Col11_MainStreet-1_2,COL071_2,Col11_MainStreet-1,6.938405,79.852528,COL071,2CC available,33
+Col11_MainStreet-1_3,COL071_3,Col11_MainStreet-1,6.938405,79.852528,COL071,2CC available,27
+Dehiwala_St.MarysChurch-1_1,COL072_1,Dehiwala_St.MarysChurch-1,6.859274,79.863688,COL072,3CC available,25.99196201
+Dehiwala_St.MarysChurch-1_2,COL072_2,Dehiwala_St.MarysChurch-1,6.859274,79.863688,COL072,3CC available,24.82206877
+Dehiwala_St.MarysChurch-1_3,COL072_3,Dehiwala_St.MarysChurch-1,6.859274,79.863688,COL072,3CC available,27.14079748
+Col5_PolhengodaJunc-2_1,COL074_1,Col5_PolhengodaJunc-2,6.887,79.877466,COL074,2CC available,18.63890663
+Col5_PolhengodaJunc-2_2,COL074_2,Col5_PolhengodaJunc-2,6.887,79.877466,COL074,2CC available,32.01439956
+Col5_PolhengodaJunc-2_3,COL074_3,Col5_PolhengodaJunc-2,6.887,79.877466,COL074,2CC available,33
+DehiwalaZoo-1_1,COL075_1,DehiwalaZoo-1,6.859558,79.874061,COL075,3CC available,20.88221021
+DehiwalaZoo-1_2,COL075_2,DehiwalaZoo-1,6.859558,79.874061,COL075,3CC available,25.5831508
+DehiwalaZoo-1_3,COL075_3,DehiwalaZoo-1,6.859558,79.874061,COL075,3CC available,19.39948759
+Col9_Dematagoda-1_1,COL076_1,Col9_Dematagoda-1,6.930773,79.878443,COL076,2CC available,22.5
+Col9_Dematagoda-1_2,COL076_2,Col9_Dematagoda-1,6.930773,79.878443,COL076,2CC available,27.87461293
+Col9_Dematagoda-1_3,COL076_3,Col9_Dematagoda-1,6.930773,79.878443,COL076,2CC available,21
+Col5_ParkRd-1_1,COL077_1,Col5_ParkRd-1,6.887637,79.871823,COL077,3CC available,19.53563257
+Col5_ParkRd-1_2,COL077_2,Col5_ParkRd-1,6.887637,79.871823,COL077,2CC available,19
+Col5_ParkRd-1_3,COL077_3,Col5_ParkRd-1,6.887637,79.871823,COL077,3CC available,19.2829168
+Col8_PunchiBorella-1_1,COL078_1,Col8_PunchiBorella-1,6.921794,79.87183,COL078,3CC available,19.41564236
+Col8_PunchiBorella-1_2,COL078_2,Col8_PunchiBorella-1,6.921794,79.87183,COL078,3CC available,19.31321903
+Col8_PunchiBorella-1_3,COL078_3,Col8_PunchiBorella-1,6.921794,79.87183,COL078,3CC available,20.26445698
+SaranankaraRoad-1_1,COL079_1,SaranankaraRoad-1,6.864002,79.867376,COL079,2CC available,18.71321201
+SaranankaraRoad-1_2,COL079_2,SaranankaraRoad-1,6.864002,79.867376,COL079,2CC available,19.5
+SaranankaraRoad-1_3,COL079_3,SaranankaraRoad-1,6.864002,79.867376,COL079,2CC available,19.95239364
+Col13_St.AnthonysChurch-1_1,COL080_1,Col13_St.AnthonysChurch-1,6.946956,79.858001,COL080,2CC available,19.5
+Col13_St.AnthonysChurch-1_2,COL080_2,Col13_St.AnthonysChurch-1,6.946956,79.858001,COL080,2CC available,21.41007028
+Col13_St.AnthonysChurch-1_3,COL080_3,Col13_St.AnthonysChurch-1,6.946956,79.858001,COL080,2CC available,21
+Col13_WasalaRd-1_1,COL081_1,Col13_WasalaRd-1,6.951829,79.865508,COL081,No CA configured,21
+Col13_WasalaRd-1_2,COL081_2,Col13_WasalaRd-1,6.951829,79.865508,COL081,2CC available,18.9894903
+Col13_WasalaRd-1_3,COL081_3,Col13_WasalaRd-1,6.951829,79.865508,COL081,2CC available,20.10630172
+Col6_Wellawatte-1_1,COL083_1,Col6_Wellawatte-1,6.875429,79.861643,COL083,3CC available,22.26114652
+Col6_Wellawatte-1_2,COL083_2,Col6_Wellawatte-1,6.875429,79.861643,COL083,3CC available,20.05241078
+Col6_Wellawatte-1_3,COL083_3,Col6_Wellawatte-1,6.875429,79.861643,COL083,3CC available,19.70717978
+Kolonnawa-1_1,COL084_1,Kolonnawa-1,6.932419,79.890036,COL084,3CC available,20.87498697
+Kolonnawa-1_2,COL084_2,Kolonnawa-1,6.932419,79.890036,COL084,3CC available,19.43516495
+Kolonnawa-1_3,COL084_3,Kolonnawa-1,6.932419,79.890036,COL084,3CC available,23.13013453
+Col15_CrowIsland-1_1,COL085_1,Col15_CrowIsland-1,6.970302,79.872547,COL085,3CC available,20.71223266
+Col15_CrowIsland-1_2,COL085_2,Col15_CrowIsland-1,6.970302,79.872547,COL085,3CC available,17.78761017
+Col15_CrowIsland-1_3,COL085_3,Col15_CrowIsland-1,6.970302,79.872547,COL085,3CC available,20.87299922
+Col2_MalayStreet-1_1,COL086_1,Col2_MalayStreet-1,6.925552,79.850595,COL086,No CA configured,30
+Col2_MalayStreet-1_2,COL086_2,Col2_MalayStreet-1,6.925552,79.850595,COL086,2CC available,21.16995354
+Col2_MalayStreet-1_3,COL086_3,Col2_MalayStreet-1,6.925552,79.850595,COL086,No CA configured,22.5
+Col2_Salaka-1_1,COL087_1,Col2_Salaka-1,6.917602,79.863022,COL087,3CC available,19.95913985
+Col2_Salaka-1_2,COL087_2,Col2_Salaka-1,6.917602,79.863022,COL087,2CC available,23.31617778
+Col2_Salaka-1_3,COL087_3,Col2_Salaka-1,6.917602,79.863022,COL087,3CC available,20.65991874
+Col6_Pamankada-1_1,COL088_1,Col6_Pamankada-1,6.878509,79.869308,COL088,3CC available,19.51234038
+Col6_Pamankada-1_2,COL088_2,Col6_Pamankada-1,6.878509,79.869308,COL088,3CC available,19.35275277
+Col6_Pamankada-1_3,COL088_3,Col6_Pamankada-1,6.878509,79.869308,COL088,2CC available,19.12256244
+Col10_GeneralHospital-1_1,COL089_1,Col10_GeneralHospital-1,6.92152,79.864836,COL089,No CA configured,22.5
+Col10_GeneralHospital-1_2,COL089_2,Col10_GeneralHospital-1,6.92152,79.864836,COL089,2CC available,20.04018331
+Col10_GeneralHospital-1_3,COL089_3,Col10_GeneralHospital-1,6.92152,79.864836,COL089,2CC available,18.39094425
+SymondsRoad-1_1,COL090_1,SymondsRoad-1,6.924232,79.865228,COL090,3CC available,19.46326843
+SymondsRoad-1_2,COL090_2,SymondsRoad-1,6.924232,79.865228,COL090,3CC available,20.98002689
+SymondsRoad-1_3,COL090_3,SymondsRoad-1,6.924232,79.865228,COL090,3CC available,19.33000279
+Col10_Maligawatta-1_1,COL091_1,Col10_Maligawatta-1,6.936357,79.872978,COL091,3CC available,22.79565793
+Col10_Maligawatta-1_2,COL091_2,Col10_Maligawatta-1,6.936357,79.872978,COL091,3CC available,18.24101633
+Col10_Maligawatta-1_3,COL091_3,Col10_Maligawatta-1,6.936357,79.872978,COL091,3CC available,20.89441658
+SoysaFlats-1_1,COL093_1,SoysaFlats-1,6.806029,79.880999,COL093,2CC available,19.38863051
+SoysaFlats-1_2,COL093_2,SoysaFlats-1,6.806029,79.880999,COL093,3CC available,18.77034739
+SoysaFlats-1_3,COL093_3,SoysaFlats-1,6.806029,79.880999,COL093,3CC available,18.52952361
+Col10_NalandaCollege-1_1,COL094_1,Col10_NalandaCollege-1,6.923731,79.873439,COL094,2CC available,23.85713277
+Col10_NalandaCollege-1_2,COL094_2,Col10_NalandaCollege-1,6.923731,79.873439,COL094,No CA configured,33
+Col10_NalandaCollege-1_3,COL094_3,Col10_NalandaCollege-1,6.923731,79.873439,COL094,2CC available,33
+OdeanCinema-1_1,COL095_1,OdeanCinema-1,6.846548,79.865875,COL095,3CC available,19.88439944
+OdeanCinema-1_2,COL095_2,OdeanCinema-1,6.846548,79.865875,COL095,3CC available,22.57679359
+OdeanCinema-1_3,COL095_3,OdeanCinema-1,6.846548,79.865875,COL095,3CC available,20.6188122
+Col2_BishopsCollege-1_1,COL097_1,Col2_BishopsCollege-1,6.914645,79.856205,COL097,3CC available,19.43623183
+Col2_BishopsCollege-1_2,COL097_2,Col2_BishopsCollege-1,6.914645,79.856205,COL097,3CC available,19.50140778
+Col2_BishopsCollege-1_3,COL097_3,Col2_BishopsCollege-1,6.914645,79.856205,COL097,3CC available,21.94095784
+Nedimala-1_1,COL099_1,Nedimala-1,6.850624,79.879957,COL099,2CC available,21.23490222
+Nedimala-1_2,COL099_2,Nedimala-1,6.850624,79.879957,COL099,3CC available,19.62587357
+Nedimala-1_3,COL099_3,Nedimala-1,6.850624,79.879957,COL099,3CC available,19.36635229
+HomagamaTown-1_1,COL100_1,HomagamaTown-1,6.841002,80.00202,COL100,3CC available,20.06482084
+HomagamaTown-1_2,COL100_2,HomagamaTown-1,6.841002,80.00202,COL100,3CC available,18.68063508
+HomagamaTown-1_3,COL100_3,HomagamaTown-1,6.841002,80.00202,COL100,3CC available,18.30879737
+MalambeTown-1_1,COL101_1,MalambeTown-1,6.902699,79.95482,COL101,2CC available,19.37733931
+MalambeTown-1_2,COL101_2,MalambeTown-1,6.902699,79.95482,COL101,3CC available,21.11781467
+MalambeTown-1_3,COL101_3,MalambeTown-1,6.902699,79.95482,COL101,3CC available,20.18521888
+KottawaTown-1_1,COL102_1,KottawaTown-1,6.842587,79.964021,COL102,3CC available,18.11265725
+KottawaTown-1_2,COL102_2,KottawaTown-1,6.842587,79.964021,COL102,2CC available,18.25934301
+KottawaTown-1_3,COL102_3,KottawaTown-1,6.842587,79.964021,COL102,3CC available,18.70848773
+Kesbewa-1_1,COL103_1,Kesbewa-1,6.795538,79.94329,COL103,3CC available,20.58663602
+Kesbewa-1_2,COL103_2,Kesbewa-1,6.795538,79.94329,COL103,3CC available,20.8875636
+Kesbewa-1_3,COL103_3,Kesbewa-1,6.795538,79.94329,COL103,3CC available,19.40970606
+Kesbewa-1_4,COL103_4,Kesbewa-1,6.795538,79.94329,COL103,2CC available,19.5
+Pelawatte_AsiriUyana-1_1,COL104_1,Pelawatte_AsiriUyana-1,6.891784,79.928679,COL104,3CC available,21.73492206
+Pelawatte_AsiriUyana-1_2,COL104_2,Pelawatte_AsiriUyana-1,6.891784,79.928679,COL104,2CC available,20.56083852
+Pelawatte_AsiriUyana-1_3,COL104_3,Pelawatte_AsiriUyana-1,6.891784,79.928679,COL104,3CC available,18.16755689
+Col3_MethodistCollege-1_1,COL105_1,Col3_MethodistCollege-1,6.911493,79.849409,COL105,No CA configured,33
+Col3_MethodistCollege-1_2,COL105_2,Col3_MethodistCollege-1,6.911493,79.849409,COL105,2CC available,21.39869831
+Col3_MethodistCollege-1_3,COL105_3,Col3_MethodistCollege-1,6.911493,79.849409,COL105,2CC available,24.21067563
+Jambugasmulla-1_1,COL106_1,Jambugasmulla-1,6.865877,79.894209,COL106,3CC available,18.63037005
+Jambugasmulla-1_2,COL106_2,Jambugasmulla-1,6.865877,79.894209,COL106,3CC available,17.18338886
+Jambugasmulla-1_3,COL106_3,Jambugasmulla-1,6.865877,79.894209,COL106,3CC available,18.42621403
+EthulKotte-1_1,COL107_1,EthulKotte-1,6.903492,79.906668,COL107,3CC available,20.08493047
+EthulKotte-1_2,COL107_2,EthulKotte-1,6.903492,79.906668,COL107,3CC available,19.79282717
+EthulKotte-1_3,COL107_3,EthulKotte-1,6.903492,79.906668,COL107,3CC available,19.59924418
+Nawala-1_1,COL108_1,Nawala-1,6.886727,79.886984,COL108,3CC available,20.31404144
+Nawala-1_2,COL108_2,Nawala-1,6.886727,79.886984,COL108,3CC available,20.90131919
+Nawala-1_3,COL108_3,Nawala-1,6.886727,79.886984,COL108,3CC available,20.4405872
+Gorakapitiya-1_1,COL109_1,Gorakapitiya-1,6.829358,79.949256,COL109,3CC available,17.86674216
+Gorakapitiya-1_2,COL109_2,Gorakapitiya-1,6.829358,79.949256,COL109,3CC available,15.98635464
+Gorakapitiya-1_3,COL109_3,Gorakapitiya-1,6.829358,79.949256,COL109,3CC available,16.8897851
+MaharagamaTown-1_1,COL110_1,MaharagamaTown-1,6.85062,79.928792,COL110,No CA configured,22.5
+MaharagamaTown-1_2,COL110_2,MaharagamaTown-1,6.85062,79.928792,COL110,2CC available,22.75884589
+MaharagamaTown-1_3,COL110_3,MaharagamaTown-1,6.85062,79.928792,COL110,2CC available,15.75
+Werahera-1_1,COL111_1,Werahera-1,6.826151,79.912797,COL111,3CC available,17.05243108
+Werahera-1_2,COL111_2,Werahera-1,6.826151,79.912797,COL111,3CC available,18.45010079
+Werahera-1_3,COL111_3,Werahera-1,6.826151,79.912797,COL111,2CC available,20.16990721
+Gothatuwa-1_1,COL112_1,Gothatuwa-1,6.915536,79.910008,COL112,3CC available,18.20626633
+Gothatuwa-1_2,COL112_2,Gothatuwa-1,6.915536,79.910008,COL112,2CC available,20.82654242
+Gothatuwa-1_3,COL112_3,Gothatuwa-1,6.915536,79.910008,COL112,2CC available,23.99639137
+Himbutana-1_1,COL113_1,Himbutana-1,6.920032,79.940545,COL113,3CC available,17.74899783
+Himbutana-1_2,COL113_2,Himbutana-1,6.920032,79.940545,COL113,3CC available,23.0425113
+Himbutana-1_3,COL113_3,Himbutana-1,6.920032,79.940545,COL113,3CC available,19.5829919
+Madinnagoda-1_1,COL114_1,Madinnagoda-1,6.920748,79.896644,COL114,3CC available,18.30176307
+Madinnagoda-1_2,COL114_2,Madinnagoda-1,6.920748,79.896644,COL114,3CC available,17.61715383
+Madinnagoda-1_3,COL114_3,Madinnagoda-1,6.920748,79.896644,COL114,2CC available,19.39787961
+Pannipitiya_Polwaththa-1_1,COL115_1,Pannipitiya_Polwaththa-1,6.860928,79.943156,COL115,3CC available,18.90428744
+Pannipitiya_Polwaththa-1_2,COL115_2,Pannipitiya_Polwaththa-1,6.860928,79.943156,COL115,2CC available,18.18865625
+Pannipitiya_Polwaththa-1_3,COL115_3,Pannipitiya_Polwaththa-1,6.860928,79.943156,COL115,3CC available,17.28327531
+Col3_Crescat-1_1,COL116_1,Col3_Crescat-1,6.916562,79.848149,COL116,2CC available,23.92426661
+Col3_Crescat-1_2,COL116_2,Col3_Crescat-1,6.916562,79.848149,COL116,No CA configured,30
+Col3_Crescat-1_3,COL116_3,Col3_Crescat-1,6.916562,79.848149,COL116,2CC available,21
+Kaduwela-1_1,COL117_1,Kaduwela-1,6.933547,79.982499,COL117,3CC available,20.17741022
+Kaduwela-1_2,COL117_2,Kaduwela-1,6.933547,79.982499,COL117,3CC available,17.47052588
+Kaduwela-1_3,COL117_3,Kaduwela-1,6.933547,79.982499,COL117,2CC available,19.55220555
+Madiwela-1_1,COL118_1,Madiwela-1,6.880499,79.917973,COL118,2CC available,21.31698537
+Madiwela-1_2,COL118_2,Madiwela-1,6.880499,79.917973,COL118,3CC available,19.02236635
+Madiwela-1_3,COL118_3,Madiwela-1,6.880499,79.917973,COL118,3CC available,18.28065799
+Makumbura-1_1,COL119_1,Makumbura-1,6.841457,79.977663,COL119,3CC available,18.13672835
+Makumbura-1_2,COL119_2,Makumbura-1,6.841457,79.977663,COL119,3CC available,20.04527102
+Makumbura-1_3,COL119_3,Makumbura-1,6.841457,79.977663,COL119,3CC available,18
+Col12_Hultsdorf-1_1,COL120_1,Col12_Hultsdorf-1,6.937104,79.860298,COL120,3CC available,20.82332951
+Col12_Hultsdorf-1_2,COL120_2,Col12_Hultsdorf-1,6.937104,79.860298,COL120,2CC available,21.33093684
+Col12_Hultsdorf-1_3,COL120_3,Col12_Hultsdorf-1,6.937104,79.860298,COL120,3CC available,18.51785058
+Col4_UnityPlaza-1_1,COL122_1,Col4_UnityPlaza-1,6.8934,79.855067,COL122,2CC available,27
+Col4_UnityPlaza-1_2,COL122_2,Col4_UnityPlaza-1,6.8934,79.855067,COL122,2CC available,27
+Col4_UnityPlaza-1_3,COL122_3,Col4_UnityPlaza-1,6.8934,79.855067,COL122,3CC available,24.41017615
+Col6_HampdonLane-1_1,COL123_1,Col6_HampdonLane-1,6.873883,79.865717,COL123,No CA configured,22.5
+Col6_HampdonLane-1_2,COL123_2,Col6_HampdonLane-1,6.873883,79.865717,COL123,2CC available,20.23868644
+Col6_HampdonLane-1_3,COL123_3,Col6_HampdonLane-1,6.873883,79.865717,COL123,2CC available,20.9832967
+Polgasowita-1_1,COL124_1,Polgasowita-1,6.786988,79.960154,COL124,3CC available,18.53788745
+Polgasowita-1_2,COL124_2,Polgasowita-1,6.786988,79.960154,COL124,3CC available,15.93881766
+Polgasowita-1_3,COL124_3,Polgasowita-1,6.786988,79.960154,COL124,3CC available,16.78039344
+Col15_Hettiyawatta-1_1,COL125_1,Col15_Hettiyawatta-1,6.952471,79.858549,COL125,2CC available,16.75354744
+Col15_Hettiyawatta-1_2,COL125_2,Col15_Hettiyawatta-1,6.952471,79.858549,COL125,No CA configured,18
+Col15_Hettiyawatta-1_3,COL125_3,Col15_Hettiyawatta-1,6.952471,79.858549,COL125,2CC available,16.99424126
+Padukka-1_1,COL126_1,Padukka-1,6.841399,80.096579,COL126,3CC available,18.73608791
+Padukka-1_2,COL126_2,Padukka-1,6.841399,80.096579,COL126,3CC available,19.2542202
+Padukka-1_3,COL126_3,Padukka-1,6.841399,80.096579,COL126,3CC available,19.62295948
+Col2_VauxhallStreet-1_1,COL127_1,Col2_VauxhallStreet-1,6.921884,79.859024,COL127,No CA configured,30
+Col2_VauxhallStreet-1_2,COL127_2,Col2_VauxhallStreet-1,6.921884,79.859024,COL127,No CA configured,33
+Col2_VauxhallStreet-1_3,COL127_3,Col2_VauxhallStreet-1,6.921884,79.859024,COL127,2CC available,27.56193949
+Kohuwala-2_1,COL128_1,Kohuwala-2,6.866388,79.881733,COL128,2CC available,23.79705522
+Kohuwala-2_2,COL128_2,Kohuwala-2,6.866388,79.881733,COL128,3CC available,18.99430075
+Kohuwala-2_3,COL128_3,Kohuwala-2,6.866388,79.881733,COL128,3CC available,20.59725207
+Moratuwa_GangaramaTmp-1_1,COL129_1,Moratuwa_GangaramaTmp-1,6.792505,79.902686,COL129,3CC available,16.17434021
+Moratuwa_GangaramaTmp-1_2,COL129_2,Moratuwa_GangaramaTmp-1,6.792505,79.902686,COL129,3CC available,15.83903157
+Moratuwa_GangaramaTmp-1_3,COL129_3,Moratuwa_GangaramaTmp-1,6.792505,79.902686,COL129,3CC available,16.18426253
+Madapatha-1_1,COL130_1,Madapatha-1,6.76457,79.927802,COL130,3CC available,18.50276354
+Madapatha-1_2,COL130_2,Madapatha-1,6.76457,79.927802,COL130,3CC available,15.99597352
+Madapatha-1_3,COL130_3,Madapatha-1,6.76457,79.927802,COL130,3CC available,18.5101811
+Col5_St.TheresasChurch-1_1,COL131_1,Col5_St.TheresasChurch-1,6.895628,79.872941,COL131,No CA configured,33
+Col5_St.TheresasChurch-1_2,COL131_2,Col5_St.TheresasChurch-1,6.895628,79.872941,COL131,No CA configured,22.5
+Col5_St.TheresasChurch-1_3,COL131_3,Col5_St.TheresasChurch-1,6.895628,79.872941,COL131,No CA configured,33
+Kaldemulla-1_1,COL132_1,Kaldemulla-1,6.799234,79.876551,COL132,2CC available,19.82581668
+Kaldemulla-1_2,COL132_2,Kaldemulla-1,6.799234,79.876551,COL132,3CC available,16.62604639
+Kaldemulla-1_3,COL132_3,Kaldemulla-1,6.799234,79.876551,COL132,3CC available,16.56510987
+MoratuwaTown-1_1,COL133_1,MoratuwaTown-1,6.772623,79.884629,COL133,3CC available,21.32706684
+MoratuwaTown-1_2,COL133_2,MoratuwaTown-1,6.772623,79.884629,COL133,3CC available,19.40703748
+MoratuwaTown-1_3,COL133_3,MoratuwaTown-1,6.772623,79.884629,COL133,2CC available,29.70698706
+MoratuwaTown-1_4,COL133_4,MoratuwaTown-1,6.772623,79.884629,COL133,3CC available,19.91886642
+Kahatuduwa-1_1,COL136_1,Kahatuduwa-1,6.781963,79.985822,COL136,3CC available,20.42146608
+Kahatuduwa-1_2,COL136_2,Kahatuduwa-1,6.781963,79.985822,COL136,3CC available,18.19201617
+Kahatuduwa-1_3,COL136_3,Kahatuduwa-1,6.781963,79.985822,COL136,3CC available,18.56954986
+Kosgama-1_1,COL137_1,Kosgama-1,6.934892,80.138703,COL137,3CC available,19.5310154
+Kosgama-1_2,COL137_2,Kosgama-1,6.934892,80.138703,COL137,2CC available,18.94397934
+Kosgama-1_3,COL137_3,Kosgama-1,6.934892,80.138703,COL137,3CC available,18.2429375
+Col2_TransAsia-1_1,COL139_1,Col2_TransAsia-1,6.929397,79.848326,COL139,No CA configured,27
+Col2_TransAsia-1_2,COL139_2,Col2_TransAsia-1,6.929397,79.848326,COL139,2CC available,20.09696733
+Col2_TransAsia-1_3,COL139_3,Col2_TransAsia-1,6.929397,79.848326,COL139,No CA configured,30
+Col2_TransAsia-1_4,COL139_4,Col2_TransAsia-1,6.929397,79.848326,COL139,No CA configured,27
+FingaraClub-1_1,COL141_1,FingaraClub-1,6.853217,79.897563,COL141,2CC available,20
+FingaraClub-1_2,COL141_2,FingaraClub-1,6.853217,79.897563,COL141,3CC available,18.56218083
+FingaraClub-1_3,COL141_3,FingaraClub-1,6.853217,79.897563,COL141,2CC available,21.02882672
+Kothalawala-1_1,COL143_1,Kothalawala-1,6.914616,79.972019,COL143,3CC available,18.70895271
+Kothalawala-1_2,COL143_2,Kothalawala-1,6.914616,79.972019,COL143,No CA configured,19
+Kothalawala-1_3,COL143_3,Kothalawala-1,6.914616,79.972019,COL143,No CA configured,25
+Thalapathpitiya-1_1,COL144_1,Thalapathpitiya-1,6.866668,79.921744,COL144,No CA configured,19.5
+Thalapathpitiya-1_2,COL144_2,Thalapathpitiya-1,6.866668,79.921744,COL144,No CA configured,22.5
+Thalapathpitiya-1_3,COL144_3,Thalapathpitiya-1,6.866668,79.921744,COL144,No CA configured,18
+WoodlandAvenue-1_1,COL145_1,WoodlandAvenue-1,6.862432,79.888532,COL145,2CC available,30.73841935
+WoodlandAvenue-1_2,COL145_2,WoodlandAvenue-1,6.862432,79.888532,COL145,2CC available,33
+WoodlandAvenue-1_3,COL145_3,WoodlandAvenue-1,6.862432,79.888532,COL145,2CC available,23.95478623
+Col15_Muthuwella-1_1,COL146_1,Col15_Muthuwella-1,6.96196,79.862739,COL146,3CC available,20.0381367
+Col15_Muthuwella-1_2,COL146_2,Col15_Muthuwella-1,6.96196,79.862739,COL146,3CC available,27.77939013
+Col15_Muthuwella-1_3,COL146_3,Col15_Muthuwella-1,6.96196,79.862739,COL146,3CC available,23.20941788
+Nawinna-1_1,COL148_1,Nawinna-1,6.853051,79.918593,COL148,No CA configured,22.5
+Nawinna-1_2,COL148_2,Nawinna-1,6.853051,79.918593,COL148,2CC available,19.5
+Nawinna-1_3,COL148_3,Nawinna-1,6.853051,79.918593,COL148,No CA configured,27
+Col3_VogueJewellers-1_1,COL150_1,Col3_VogueJewellers-1,6.902827,79.852146,COL150,2CC available,28.03060198
+Col3_VogueJewellers-1_2,COL150_2,Col3_VogueJewellers-1,6.902827,79.852146,COL150,2CC available,30
+Col3_VogueJewellers-1_3,COL150_3,Col3_VogueJewellers-1,6.902827,79.852146,COL150,2CC available,28.04223337
+Col5_DickmansRd-1_1,COL151_1,Col5_DickmansRd-1,6.887565,79.86278,COL151,2CC available,25
+Col5_DickmansRd-1_2,COL151_2,Col5_DickmansRd-1,6.887565,79.86278,COL151,2CC available,23.23081082
+Col5_DickmansRd-1_3,COL151_3,Col5_DickmansRd-1,6.887565,79.86278,COL151,2CC available,25.19442564
+GothatuwaTown-1_1,COL152_1,GothatuwaTown-1,6.928149,79.908327,COL152,2CC available,17.43322779
+GothatuwaTown-1_2,COL152_2,GothatuwaTown-1,6.928149,79.908327,COL152,No CA configured,33
+GothatuwaTown-1_3,COL152_3,GothatuwaTown-1,6.928149,79.908327,COL152,No CA configured,19.5
+Moratumulla-1_1,COL153_1,Moratumulla-1,6.787998,79.896251,COL153,3CC available,16.77001578
+Moratumulla-1_2,COL153_2,Moratumulla-1,6.787998,79.896251,COL153,No CA configured,19.5
+Moratumulla-1_3,COL153_3,Moratumulla-1,6.787998,79.896251,COL153,3CC available,17.46887774
+Jayawadanagama-1_1,COL155_1,Jayawadanagama-1,6.889661,79.939469,COL155,2CC available,18.27095257
+Jayawadanagama-1_2,COL155_2,Jayawadanagama-1,6.889661,79.939469,COL155,2CC available,19.78374449
+Jayawadanagama-1_3,COL155_3,Jayawadanagama-1,6.889661,79.939469,COL155,3CC available,20.15005089
+Col2_RegalCinema-1_1,COL158_1,Col2_RegalCinema-1,6.931807,79.846558,COL158,2CC available,27
+Col2_RegalCinema-1_2,COL158_2,Col2_RegalCinema-1,6.931807,79.846558,COL158,3CC available,22.26780095
+Col2_RegalCinema-1_3,COL158_3,Col2_RegalCinema-1,6.931807,79.846558,COL158,No CA configured,33
+Nawagamuwa-1_1,COL159_1,Nawagamuwa-1,6.915245,80.023952,COL159,3CC available,19.42820969
+Nawagamuwa-1_2,COL159_2,Nawagamuwa-1,6.915245,80.023952,COL159,3CC available,17.81327522
+Nawagamuwa-1_3,COL159_3,Nawagamuwa-1,6.915245,80.023952,COL159,3CC available,18.98526199
+AllenAvenue-1_1,COL160_1,AllenAvenue-1,6.857106,79.872048,COL160,2CC available,27.77392091
+AllenAvenue-1_2,COL160_2,AllenAvenue-1,6.857106,79.872048,COL160,2CC available,20.49960878
+AllenAvenue-1_3,COL160_3,AllenAvenue-1,6.857106,79.872048,COL160,2CC available,20.39492735
+Bokundara-1_1,COL161_1,Bokundara-1,6.819937,79.916695,COL161,No CA configured,25
+Bokundara-1_2,COL161_2,Bokundara-1,6.819937,79.916695,COL161,3CC available,19.43099392
+Bokundara-1_3,COL161_3,Bokundara-1,6.819937,79.916695,COL161,No CA configured,25
+PamunuwaJunction-1_1,COL162_1,PamunuwaJunction-1,6.861792,79.928893,COL162,3CC available,19.89549668
+PamunuwaJunction-1_2,COL162_2,PamunuwaJunction-1,6.861792,79.928893,COL162,3CC available,20.09246514
+PamunuwaJunction-1_3,COL162_3,PamunuwaJunction-1,6.861792,79.928893,COL162,3CC available,19.7488799
+Kaluaggala-1_1,COL163_1,Kaluaggala-1,6.920504,80.098902,COL163,No CA configured,18
+Kaluaggala-1_2,COL163_2,Kaluaggala-1,6.920504,80.098902,COL163,3CC available,20.71454338
+Kaluaggala-1_3,COL163_3,Kaluaggala-1,6.920504,80.098902,COL163,No CA configured,18
+Pitipana-1_1,COL164_1,Pitipana-1,6.829565,80.027369,COL164,3CC available,18.35000528
+Pitipana-1_2,COL164_2,Pitipana-1,6.829565,80.027369,COL164,3CC available,19.74386147
+Pitipana-1_3,COL164_3,Pitipana-1,6.829565,80.027369,COL164,3CC available,18.17502816
+Akurugoda-1_1,COL165_1,Akurugoda-1,6.901441,79.935401,COL165,3CC available,18.31967813
+Akurugoda-1_2,COL165_2,Akurugoda-1,6.901441,79.935401,COL165,3CC available,19.11676103
+Akurugoda-1_3,COL165_3,Akurugoda-1,6.901441,79.935401,COL165,2CC available,20.15054934
+Col10_DarleyRoad-1_1,COL166_1,Col10_DarleyRoad-1,6.925856,79.861947,COL166,2CC available,29.72568759
+Col10_DarleyRoad-1_2,COL166_2,Col10_DarleyRoad-1,6.925856,79.861947,COL166,2CC available,30.92668399
+Col10_DarleyRoad-1_3,COL166_3,Col10_DarleyRoad-1,6.925856,79.861947,COL166,2CC available,32.09300627
+Makuluduwa-1_1,COL168_1,Makuluduwa-1,6.813873,79.932367,COL168,3CC available,18.24055416
+Makuluduwa-1_2,COL168_2,Makuluduwa-1,6.813873,79.932367,COL168,3CC available,19.19575679
+Makuluduwa-1_3,COL168_3,Makuluduwa-1,6.813873,79.932367,COL168,3CC available,18.75744695
+Thunnana-1_1,COL169_1,Thunnana-1,6.881727,80.083559,COL169,3CC available,18.82558167
+Thunnana-1_2,COL169_2,Thunnana-1,6.881727,80.083559,COL169,3CC available,18.75081541
+Thunnana-1_3,COL169_3,Thunnana-1,6.881727,80.083559,COL169,3CC available,19.22420859
+Waga-1_1,COL170_1,Waga-1,6.899505,80.127018,COL170,No CA configured,23
+Waga-1_2,COL170_2,Waga-1,6.899505,80.127018,COL170,No CA configured,20
+Waga-1_3,COL170_3,Waga-1,6.899505,80.127018,COL170,2CC available,23.87013002
+Col12_D.R.WijewardaneMW-1_1,COL171_1,Col12_D.R.WijewardaneMW-1,6.930687,79.855853,COL171,2CC available,25.93843521
+Col12_D.R.WijewardaneMW-1_2,COL171_2,Col12_D.R.WijewardaneMW-1,6.930687,79.855853,COL171,2CC available,33
+Col12_D.R.WijewardaneMW-1_3,COL171_3,Col12_D.R.WijewardaneMW-1,6.930687,79.855853,COL171,2CC available,27
+MulleriyawaNewtown-1_1,COL172_1,MulleriyawaNewtown-1,6.928693,79.949534,COL172,3CC available,20.09445972
+MulleriyawaNewtown-1_2,COL172_2,MulleriyawaNewtown-1,6.928693,79.949534,COL172,3CC available,19.30076256
+MulleriyawaNewtown-1_3,COL172_3,MulleriyawaNewtown-1,6.928693,79.949534,COL172,3CC available,19.53078002
+Col9_PalithaPlace-1_1,COL173_1,Col9_PalithaPlace-1,6.929975,79.883551,COL173,2CC available,27
+Col9_PalithaPlace-1_2,COL173_2,Col9_PalithaPlace-1,6.929975,79.883551,COL173,3CC available,19.22852969
+Col9_PalithaPlace-1_3,COL173_3,Col9_PalithaPlace-1,6.929975,79.883551,COL173,3CC available,17.06826937
+VidyalaJunction-1_1,COL174_1,VidyalaJunction-1,6.867621,79.958583,COL174,3CC available,18
+VidyalaJunction-1_2,COL174_2,VidyalaJunction-1,6.867621,79.958583,COL174,3CC available,18.85503722
+VidyalaJunction-1_3,COL174_3,VidyalaJunction-1,6.867621,79.958583,COL174,2CC available,18
+Kalapaluwawa-1_1,COL175_1,Kalapaluwawa-1,6.916748,79.917774,COL175,2CC available,19.89747738
+Kalapaluwawa-1_2,COL175_2,Kalapaluwawa-1,6.916748,79.917774,COL175,2CC available,20.35254663
+Kalapaluwawa-1_3,COL175_3,Kalapaluwawa-1,6.916748,79.917774,COL175,2CC available,20.99553168
+Batakettara-1_1,COL176_1,Batakettara-1,6.780958,79.923009,COL176,3CC available,18.46219817
+Batakettara-1_2,COL176_2,Batakettara-1,6.780958,79.923009,COL176,3CC available,17.92957392
+Batakettara-1_3,COL176_3,Batakettara-1,6.780958,79.923009,COL176,3CC available,17.87000339
+Katuwawala-1_1,COL177_1,Katuwawala-1,6.820297,79.907998,COL177,3CC available,18.06734185
+Katuwawala-1_2,COL177_2,Katuwawala-1,6.820297,79.907998,COL177,3CC available,18.91893309
+Katuwawala-1_3,COL177_3,Katuwawala-1,6.820297,79.907998,COL177,2CC available,22.25925567
+Moratuwa_HolyEmmanuel-1_1,COL178_1,Moratuwa_HolyEmmanuel-1,6.782061,79.882897,COL178,3CC available,18.45266405
+Moratuwa_HolyEmmanuel-1_2,COL178_2,Moratuwa_HolyEmmanuel-1,6.782061,79.882897,COL178,3CC available,18.73024844
+Moratuwa_HolyEmmanuel-1_3,COL178_3,Moratuwa_HolyEmmanuel-1,6.782061,79.882897,COL178,3CC available,18.98687258
+Col7_Torrington-1_1,COL180_1,Col7_Torrington-1,6.901582,79.866034,COL180,3CC available,20.91630138
+Col7_Torrington-1_2,COL180_2,Col7_Torrington-1,6.901582,79.866034,COL180,2CC available,18.50293118
+Col7_Torrington-1_3,COL180_3,Col7_Torrington-1,6.901582,79.866034,COL180,3CC available,19.26359567
+WijeramaJunction-1_1,COL181_1,WijeramaJunction-1,6.857642,79.901194,COL181,3CC available,22.08337775
+WijeramaJunction-1_2,COL181_2,WijeramaJunction-1,6.857642,79.901194,COL181,3CC available,18.73887019
+WijeramaJunction-1_3,COL181_3,WijeramaJunction-1,6.857642,79.901194,COL181,2CC available,18
+KotikawattaTown-1_1,COL182_1,KotikawattaTown-1,6.937667,79.907997,COL182,3CC available,19.85196426
+KotikawattaTown-1_2,COL182_2,KotikawattaTown-1,6.937667,79.907997,COL182,3CC available,20.67280738
+KotikawattaTown-1_3,COL182_3,KotikawattaTown-1,6.937667,79.907997,COL182,3CC available,19.78913385
+PiliyandalaClockTower-1_1,COL183_1,PiliyandalaClockTower-1,6.800547,79.924296,COL183,3CC available,17.96205417
+PiliyandalaClockTower-1_2,COL183_2,PiliyandalaClockTower-1,6.800547,79.924296,COL183,3CC available,20.40778643
+PiliyandalaClockTower-1_3,COL183_3,PiliyandalaClockTower-1,6.800547,79.924296,COL183,3CC available,20.25206979
+Maligakanda-1_1,COL184_1,Maligakanda-1,6.928828,79.868731,COL184,3CC available,19.1128362
+Maligakanda-1_2,COL184_2,Maligakanda-1,6.928828,79.868731,COL184,3CC available,18.23233856
+Maligakanda-1_3,COL184_3,Maligakanda-1,6.928828,79.868731,COL184,3CC available,21.94723004
+Col5_PolicePark-1_1,COL185_1,Col5_PolicePark-1,6.892408,79.860166,COL185,2CC available,27.18520786
+Col5_PolicePark-1_2,COL185_2,Col5_PolicePark-1,6.892408,79.860166,COL185,2CC available,27.27986915
+Col5_PolicePark-1_3,COL185_3,Col5_PolicePark-1,6.892408,79.860166,COL185,3CC available,24.16839352
+Col6_MayuraPlace-1_1,COL186_1,Col6_MayuraPlace-1,6.878564,79.866114,COL186,3CC available,22.09117172
+Col6_MayuraPlace-1_2,COL186_2,Col6_MayuraPlace-1,6.878564,79.866114,COL186,3CC available,20.57597159
+Col6_MayuraPlace-1_3,COL186_3,Col6_MayuraPlace-1,6.878564,79.866114,COL186,3CC available,20.22877145
+Col8_CottaRdRailwayCrossing-1_1,COL188_1,Col8_CottaRdRailwayCrossing-1,6.915003,79.883737,COL188,3CC available,19.78918237
+Col8_CottaRdRailwayCrossing-1_2,COL188_2,Col8_CottaRdRailwayCrossing-1,6.915003,79.883737,COL188,3CC available,19.26359218
+Col8_CottaRdRailwayCrossing-1_3,COL188_3,Col8_CottaRdRailwayCrossing-1,6.915003,79.883737,COL188,3CC available,21.57916327
+Wickramasinghapura-1_1,COL190_1,Wickramasinghapura-1,6.885664,79.932971,COL190,3CC available,19.24357424
+Wickramasinghapura-1_2,COL190_2,Wickramasinghapura-1,6.885664,79.932971,COL190,3CC available,19.98351543
+Wickramasinghapura-1_3,COL190_3,Wickramasinghapura-1,6.885664,79.932971,COL190,3CC available,18.06979606
+Col1_WorldTradeCenter-2_1,COL191_1,Col1_WorldTradeCenter-2,6.932822,79.843657,COL191,2CC available,27
+Col1_WorldTradeCenter-2_2,COL191_2,Col1_WorldTradeCenter-2,6.932822,79.843657,COL191,2CC available,27
+Col1_WorldTradeCenter-2_3,COL191_3,Col1_WorldTradeCenter-2,6.932822,79.843657,COL191,2CC available,27
+Arangala-1_1,COL192_1,Arangala-1,6.884102,79.972304,COL192,3CC available,18.15694825
+Arangala-1_2,COL192_2,Arangala-1,6.884102,79.972304,COL192,3CC available,18.96645391
+Arangala-1_3,COL192_3,Arangala-1,6.884102,79.972304,COL192,3CC available,17.70295843
+Kottawa_Liyanagoda-1_1,COL193_1,Kottawa_Liyanagoda-1,6.819308,79.960249,COL193,3CC available,19.53934509
+Kottawa_Liyanagoda-1_2,COL193_2,Kottawa_Liyanagoda-1,6.819308,79.960249,COL193,3CC available,18.08381155
+Kottawa_Liyanagoda-1_3,COL193_3,Kottawa_Liyanagoda-1,6.819308,79.960249,COL193,3CC available,19.34960337
+Thalawathugoda_HokandaraRd-1_1,COL194_1,Thalawathugoda_HokandaraRd-1,6.873268,79.932403,COL194,3CC available,17.48704044
+Thalawathugoda_HokandaraRd-1_2,COL194_2,Thalawathugoda_HokandaraRd-1,6.873268,79.932403,COL194,3CC available,18.77660205
+Thalawathugoda_HokandaraRd-1_3,COL194_3,Thalawathugoda_HokandaraRd-1,6.873268,79.932403,COL194,3CC available,18.96203138
+Nugegoda_Supermarket-1_1,COL195_1,Nugegoda_Supermarket-1,6.871034,79.897368,COL195,2CC available,27.02700301
+Nugegoda_Supermarket-1_2,COL195_2,Nugegoda_Supermarket-1,6.871034,79.897368,COL195,3CC available,19.46747514
+Nugegoda_Supermarket-1_3,COL195_3,Nugegoda_Supermarket-1,6.871034,79.897368,COL195,2CC available,22.5
+Hokandara-1_1,COL196_1,Hokandara-1,6.874136,79.957642,COL196,3CC available,18.49079257
+Hokandara-1_2,COL196_2,Hokandara-1,6.874136,79.957642,COL196,3CC available,18.10684126
+Hokandara-1_3,COL196_3,Hokandara-1,6.874136,79.957642,COL196,3CC available,19.29056237
+Mirihana-1_1,COL197_1,Mirihana-1,6.874836,79.907936,COL197,3CC available,20.08182903
+Mirihana-1_2,COL197_2,Mirihana-1,6.874836,79.907936,COL197,3CC available,18.98801994
+Mirihana-1_3,COL197_3,Mirihana-1,6.874836,79.907936,COL197,2CC available,20.60927954
+RatmalanaAirport-1_1,COL198_1,RatmalanaAirport-1,6.820302,79.878772,COL198,3CC available,18.99595503
+RatmalanaAirport-1_2,COL198_2,RatmalanaAirport-1,6.820302,79.878772,COL198,3CC available,18.00693582
+RatmalanaAirport-1_3,COL198_3,RatmalanaAirport-1,6.820302,79.878772,COL198,3CC available,19.0833189
+DehiwalaZoo-2_1,COL200_1,DehiwalaZoo-2,6.858004,79.876251,COL200,3CC available,18.23238692
+DehiwalaZoo-2_2,COL200_2,DehiwalaZoo-2,6.858004,79.876251,COL200,2CC available,18.92290487
+DehiwalaZoo-2_3,COL200_3,DehiwalaZoo-2,6.858004,79.876251,COL200,2CC available,18.84752251
+Col3_KollupitiyaJunc-1_1,COL201_1,Col3_KollupitiyaJunc-1,6.899321,79.852467,COL201,3CC available,24.96024976
+Col3_KollupitiyaJunc-1_2,COL201_2,Col3_KollupitiyaJunc-1,6.899321,79.852467,COL201,2CC available,27
+Col3_KollupitiyaJunc-1_3,COL201_3,Col3_KollupitiyaJunc-1,6.899321,79.852467,COL201,2CC available,27
+Arawwala-1_1,COL202_1,Arawwala-1,6.828236,79.932977,COL202,3CC available,19.2604818
+Arawwala-1_2,COL202_2,Arawwala-1,6.828236,79.932977,COL202,3CC available,18.89988226
+Arawwala-1_3,COL202_3,Arawwala-1,6.828236,79.932977,COL202,3CC available,18.02641031
+Moratuwa_Molligoda-1_1,COL203_1,Moratuwa_Molligoda-1,6.768652,79.897455,COL203,3CC available,17.26573887
+Moratuwa_Molligoda-1_2,COL203_2,Moratuwa_Molligoda-1,6.768652,79.897455,COL203,3CC available,18.42841662
+Moratuwa_Molligoda-1_3,COL203_3,Moratuwa_Molligoda-1,6.768652,79.897455,COL203,3CC available,16.27306233
+HomagamaCourt-1_1,COL204_1,HomagamaCourt-1,6.839634,80.010118,COL204,3CC available,18.17228834
+HomagamaCourt-1_2,COL204_2,HomagamaCourt-1,6.839634,80.010118,COL204,3CC available,18.18846394
+HomagamaCourt-1_3,COL204_3,HomagamaCourt-1,6.839634,80.010118,COL204,3CC available,18.91036067
+Udahamulla-1_1,COL205_1,Udahamulla-1,6.864324,79.914902,COL205,3CC available,18.88765377
+Udahamulla-1_2,COL205_2,Udahamulla-1,6.864324,79.914902,COL205,3CC available,17.91436156
+Udahamulla-1_3,COL205_3,Udahamulla-1,6.864324,79.914902,COL205,3CC available,18.88783472
+Col6_NelsonPlace-1_1,COL206_1,Col6_NelsonPlace-1,6.872719,79.860871,COL206,2CC available,27
+Col6_NelsonPlace-1_2,COL206_2,Col6_NelsonPlace-1,6.872719,79.860871,COL206,2CC available,27
+Col6_NelsonPlace-1_3,COL206_3,Col6_NelsonPlace-1,6.872719,79.860871,COL206,3CC available,22.86877864

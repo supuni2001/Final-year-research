@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'motion/react';
-import { NetworkProvider, RouterSpec } from '../types';
+import { CitySummary, NetworkProvider, RouterSpec } from '../types';
 import { COLOMBO_CITIES_SUMMARY, PROVIDERS_LIST } from '../data/colomboDataset';
 import { findRouterByImei } from '../data/routers';
 import { ArrowLeft, ArrowRight } from 'lucide-react';
@@ -13,11 +13,13 @@ interface ExistingConnectionFormProps {
     router: RouterSpec;
     imei: string;
   }) => void;
+  cities?: CitySummary[];
 }
 
 export const ExistingConnectionForm: React.FC<ExistingConnectionFormProps> = ({
   onBack,
-  onSubmit
+  onSubmit,
+  cities = COLOMBO_CITIES_SUMMARY
 }) => {
   // Default values matching Figure 1.2 in thesis rich picture
   const [imei, setImei] = useState<string>('863261024589123');
@@ -95,7 +97,7 @@ export const ExistingConnectionForm: React.FC<ExistingConnectionFormProps> = ({
             className="w-full text-xs font-semibold py-2.5 px-3 rounded-xl border border-slate-300 focus:outline-none focus:ring-2 focus:ring-indigo-600 bg-slate-50 focus:bg-white text-slate-900 shadow-2xs"
             id="select-location"
           >
-            {COLOMBO_CITIES_SUMMARY.map((c) => (
+            {cities.map((c) => (
               <option key={c.city} value={`Colombo - ${c.city}`}>
                 Colombo - {c.city}
               </option>
